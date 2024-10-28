@@ -38,7 +38,7 @@ In addition to the weekly problem sets, the repository includes a comprehensive 
 
 This project demonstrates key programming concepts such as data validation, file handling, randomness, and modular programming. It serves as a capstone project for the **CS50 Introduction to Programming Using Python** course, consolidating all the skills learned throughout the course.
 
-## Future Plans
+## Future Plans:
 
 In addition to the **CS50 Python** section, this repository will expand to include solutions to other CS50 courses such as **CS50x** and **CS50 Web Development**. Each new course will have its own directory, with detailed documentation for each problem set and project.
 
