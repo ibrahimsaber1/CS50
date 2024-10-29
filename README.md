@@ -1,6 +1,6 @@
-# CS50 Problem Sets Repository
+# CS50 Problem Sets 
 
-Welcome to the **CS50 Problem Sets Repository**! This repository is designed to consolidate and organize problem sets and projects from various CS50 courses, focusing on different domains of computer science and programming.
+Welcome to the **CS50 Problem Sets**! This repository is designed to consolidate and organize problem sets and projects from various CS50 courses, focusing on different domains of computer science and programming.
 
 ## About This Repository
 
